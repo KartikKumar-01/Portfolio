@@ -1,0 +1,16 @@
+.text-bg-dark{
+    color: #fff!important;
+    background-color: RGBA(var(--bs-rgb),var(--bs-bg-opacity,1))!important;
+}
+.cover{
+    background-size: cover;
+}
+
+.trends{
+    color: #F5F5F5 !important;
+    text-shadow: 3px 3px #fff;
+}
+
+.Project{
+    opacity: 0;
+}
